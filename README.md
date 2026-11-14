@@ -113,12 +113,12 @@
 
 ### General Purpose Machine Learning
 
-* [dlib](https://github.com/davisking/dlib) ⭐ 14,473 | 🐛 39 | 🌐 C++ | 📅 2026-11-07 - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
-* [PyCaret](https://github.com/pycaret/pycaret) ⭐ 9,862 | 🐛 34 | 🌐 Python | 📅 2026-07-23 - An open-source, low-code machine learning library in Python.  <img height="20" src="img/R_big.png" alt="R inspired lib">
-* [causalml](https://github.com/uber/causalml) ⭐ 6,043 | 🐛 21 | 🌐 Python | 📅 2026-10-12 - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [mlpack](https://github.com/mlpack/mlpack) ⭐ 5,727 | 🐛 22 | 🌐 C++ | 📅 2026-11-11 - A scalable C++ machine learning library (Python bindings).
-* [cuML](https://github.com/rapidsai/cuml) ⭐ 5,322 | 🐛 792 | 🌐 Python | 📅 2026-11-12 - RAPIDS Machine Learning Library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
-* [MLxtend](https://github.com/rasbt/mlxtend) ⭐ 5,192 | 🐛 226 | 🌐 Python | 📅 2026-11-11 - Extension and helper modules for Python's data analysis and machine learning libraries. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [dlib](https://github.com/davisking/dlib) ⭐ 14,474 | 🐛 39 | 🌐 C++ | 📅 2026-11-07 - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
+* [PyCaret](https://github.com/pycaret/pycaret) ⭐ 9,863 | 🐛 34 | 🌐 Python | 📅 2026-07-23 - An open-source, low-code machine learning library in Python.  <img height="20" src="img/R_big.png" alt="R inspired lib">
+* [causalml](https://github.com/uber/causalml) ⭐ 6,044 | 🐛 23 | 🌐 Python | 📅 2026-10-12 - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [mlpack](https://github.com/mlpack/mlpack) ⭐ 5,727 | 🐛 24 | 🌐 C++ | 📅 2026-11-11 - A scalable C++ machine learning library (Python bindings).
+* [cuML](https://github.com/rapidsai/cuml) ⭐ 5,321 | 🐛 792 | 🌐 Python | 📅 2026-11-13 - RAPIDS Machine Learning Library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [MLxtend](https://github.com/rasbt/mlxtend) ⭐ 5,193 | 🐛 227 | 🌐 Python | 📅 2026-11-13 - Extension and helper modules for Python's data analysis and machine learning libraries. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [xLearn](https://github.com/aksnzhy/xlearn) ⭐ 3,090 | 🐛 195 | 🌐 C++ | 📅 2023-08-28 - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [Shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,084 | 🐛 425 | 🌐 C++ | 📅 2023-12-19 - Machine learning toolbox.
 * [hyperlearn](https://github.com/danielhanchen/hyperlearn) ⭐ 2,532 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-19 - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -137,10 +137,10 @@
 
 ### Gradient Boosting
 
-* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,967 | 🐛 453 | 🌐 C++ | 📅 2026-11-11 - Scalable, Portable, and Distributed Gradient Boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
-* [LightGBM](https://github.com/Microsoft/LightGBM) ⭐ 18,973 | 🐛 540 | 🌐 C++ | 📅 2026-11-12 - A fast, distributed, high-performance gradient boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
-* [CatBoost](https://github.com/catboost/catboost) ⭐ 9,200 | 🐛 759 | 🌐 C++ | 📅 2026-11-13 - An open-source gradient boosting on decision trees library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
-* [NGBoost](https://github.com/stanfordmlgroup/ngboost) ⭐ 1,904 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-11-10 - Natural Gradient Boosting for Probabilistic Prediction.
+* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,971 | 🐛 454 | 🌐 C++ | 📅 2026-11-11 - Scalable, Portable, and Distributed Gradient Boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [LightGBM](https://github.com/Microsoft/LightGBM) ⭐ 18,977 | 🐛 540 | 🌐 C++ | 📅 2026-11-12 - A fast, distributed, high-performance gradient boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [CatBoost](https://github.com/catboost/catboost) ⭐ 9,201 | 🐛 758 | 🌐 C++ | 📅 2026-11-13 - An open-source gradient boosting on decision trees library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [NGBoost](https://github.com/stanfordmlgroup/ngboost) ⭐ 1,904 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Natural Gradient Boosting for Probabilistic Prediction.
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ⭐ 716 | 🐛 39 | 🌐 C++ | 📅 2025-03-19 - Fast GBDTs and Random Forests on GPUs. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests) ⭐ 694 | 🐛 52 | 🌐 Python | 📅 2026-05-19 - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="img/keras_big.png" alt="keras"> <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 
@@ -169,66 +169,66 @@
 
 ### PyTorch
 
-* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 105,459 | 🐛 18,174 | 🌐 Python | 📅 2026-11-13 - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [pytorch-lightning](https://github.com/Lightning-AI/lightning) ⭐ 31,449 | 🐛 1,244 | 🌐 Python | 📅 2026-10-30 - PyTorch Lightning is just organized PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 105,470 | 🐛 18,197 | 🌐 Python | 📅 2026-11-14 - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [pytorch-lightning](https://github.com/Lightning-AI/lightning) ⭐ 31,449 | 🐛 1,257 | 🌐 Python | 📅 2026-10-30 - PyTorch Lightning is just organized PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [skorch](https://github.com/dnouri/skorch) ⭐ 6,189 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-10 - A scikit-learn compatible neural network library that wraps PyTorch. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [ignite](https://github.com/pytorch/ignite) ⭐ 4,803 | 🐛 229 | 🌐 Python | 📅 2026-11-03 - High-level library to help with training neural networks in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [ignite](https://github.com/pytorch/ignite) ⭐ 4,804 | 🐛 231 | 🌐 Python | 📅 2026-11-03 - High-level library to help with training neural networks in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,389 | 🐛 6 | 🌐 Python | 📅 2026-07-08 - High-level utils for PyTorch DL & RL research. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [ChemicalX](https://github.com/AstraZeneca/chemicalx) ⭐ 790 | 🐛 10 | 🌐 Python | 📅 2023-09-11 - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### TensorFlow
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 201,585 | 🐛 3,440 | 🌐 C++ | 📅 2026-11-13 - Computation using data flow graphs for scalable machine learning by Google. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [Ludwig](https://github.com/uber/ludwig) ⭐ 11,790 | 🐛 2 | 🌐 Python | 📅 2026-11-09 - A toolbox that allows one to train and test deep learning models without the need to write code. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 201,593 | 🐛 3,436 | 🌐 C++ | 📅 2026-11-14 - Computation using data flow graphs for scalable machine learning by Google. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [Ludwig](https://github.com/uber/ludwig) ⭐ 11,791 | 🐛 2 | 🌐 Python | 📅 2026-11-09 - A toolbox that allows one to train and test deep learning models without the need to write code. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,977 | 🐛 46 | 🌐 Python | 📅 2026-11-03 - TensorFlow-based neural network library. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [TFLearn](https://github.com/tflearn/tflearn) ⭐ 9,563 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API for TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [TFLearn](https://github.com/tflearn/tflearn) ⭐ 9,562 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API for TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) ⭐ 7,388 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Deep Learning and Reinforcement Learning Library for Researcher and Engineer. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,280 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - A Neural Net Training Interface on TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorFlow Fold](https://github.com/tensorflow/fold) ⚠️ Archived - Deep learning with dynamic computation graphs in TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) ⚠️ Archived - Model Parallelism Made Easier. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) ⭐ 707 | 🐛 95 | 🌐 C++ | 📅 2026-11-12 - TensorFlow ROCm port. <img height="20" src="img/tf_big2.png" alt="sklearn"> <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) ⭐ 707 | 🐛 95 | 🌐 C++ | 📅 2026-11-13 - TensorFlow ROCm port. <img height="20" src="img/tf_big2.png" alt="sklearn"> <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 * [tfdeploy](https://github.com/riga/tfdeploy) ⭐ 353 | 🐛 12 | 🌐 Python | 📅 2025-01-04 - Deploy TensorFlow graphs for fast evaluation and export to TensorFlow-less environments running numpy. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorLight](https://github.com/bsautermeister/tensorlight) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2022-10-06 - A high-level framework for TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 
 ### JAX
 
-* [JAX](https://github.com/google/jax) ⭐ 36,618 | 🐛 2,584 | 🌐 Python | 📅 2026-11-13 - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-* [FLAX](https://github.com/google/flax) ⭐ 7,364 | 🐛 531 | 🌐 Jupyter Notebook | 📅 2026-11-11 - A neural network library for JAX that is designed for flexibility.
-* [Optax](https://github.com/google-deepmind/optax) ⭐ 2,366 | 🐛 165 | 🌐 Python | 📅 2026-11-12 - A gradient processing and optimization library for JAX.
+* [JAX](https://github.com/google/jax) ⭐ 36,621 | 🐛 2,588 | 🌐 Python | 📅 2026-11-14 - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+* [FLAX](https://github.com/google/flax) ⭐ 7,364 | 🐛 533 | 🌐 Jupyter Notebook | 📅 2026-11-13 - A neural network library for JAX that is designed for flexibility.
+* [Optax](https://github.com/google-deepmind/optax) ⭐ 2,366 | 🐛 167 | 🌐 Python | 📅 2026-11-13 - A gradient processing and optimization library for JAX.
 
 ### Keras
 
 * [Hyperas](https://github.com/maxpumperla/hyperas) ⭐ 2,174 | 🐛 97 | 🌐 Python | 📅 2023-01-05 - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [keras-contrib](https://github.com/keras-team/keras-contrib) ⚠️ Archived - Keras community contributions. <img height="20" src="img/keras_big.png" alt="Keras compatible">
-* [Elephas](https://github.com/maxpumperla/elephas) ⭐ 1,574 | 🐛 11 | 🌐 Python | 📅 2023-05-01 - Distributed Deep learning with Keras & Spark. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Elephas](https://github.com/maxpumperla/elephas) ⭐ 1,573 | 🐛 11 | 🌐 Python | 📅 2023-05-01 - Distributed Deep learning with Keras & Spark. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [qkeras](https://github.com/google/qkeras) ⭐ 584 | 🐛 49 | 🌐 Python | 📅 2026-02-23 - A quantization deep learning library. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [Keras](https://keras.io) - A high-level neural networks API running on top of TensorFlow.  <img height="20" src="img/keras_big.png" alt="Keras compatible">
 
 ### Others
 
-* [transformers](https://github.com/huggingface/transformers) ⭐ 168,925 | 🐛 1,083 | 🌐 Python | 📅 2026-11-12 - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - A fast open framework for deep learning.
-* [autograd](https://github.com/HIPS/autograd) ⭐ 7,553 | 🐛 247 | 🌐 Python | 📅 2026-11-09 - Efficiently computes derivatives of numpy code.
+* [transformers](https://github.com/huggingface/transformers) ⭐ 168,951 | 🐛 1,122 | 🌐 Python | 📅 2026-11-14 - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - A fast open framework for deep learning.
+* [autograd](https://github.com/HIPS/autograd) ⭐ 7,553 | 🐛 249 | 🌐 Python | 📅 2026-11-09 - Efficiently computes derivatives of numpy code.
 * [nnabla](https://github.com/sony/nnabla) ⚠️ Archived - Neural Network Libraries by Sony.
 * [Tangent](https://github.com/google/tangent) ⚠️ Archived - Source-to-Source Debuggable Derivatives in Pure Python.
 
 ## Automated Machine Learning
 
-* [AutoGluon](https://github.com/awslabs/autogluon) ⭐ 10,830 | 🐛 456 | 🌐 Python | 📅 2026-11-11 - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+* [AutoGluon](https://github.com/awslabs/autogluon) ⭐ 10,832 | 🐛 458 | 🌐 Python | 📅 2026-11-11 - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 * [TPOT](https://github.com/rhiever/tpot) ⭐ 10,060 | 🐛 313 | 🌐 Jupyter Notebook | 📅 2025-09-11 - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [AutoKeras](https://github.com/keras-team/autokeras) ⭐ 9,341 | 🐛 161 | 🌐 Python | 📅 2025-11-25 - AutoML library for deep learning. <img height="20" src="img/keras_big.png" alt="Keras compatible">
-* [auto-sklearn](https://github.com/automl/auto-sklearn) ⭐ 8,146 | 🐛 208 | 🌐 Python | 📅 2026-09-15 - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [auto-sklearn](https://github.com/automl/auto-sklearn) ⭐ 8,146 | 🐛 204 | 🌐 Python | 📅 2026-11-13 - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) ⭐ 2,541 | 🐛 75 | 🌐 Python | 📅 2024-04-09 - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) ⭐ 1,534 | 🐛 28 | 🌐 Python | 📅 2023-08-06 - A powerful Automated Machine Learning python library.
 
 ## Natural Language Processing
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,770 | 🐛 229 | 🌐 Python | 📅 2026-11-11 -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
-* [flair](https://github.com/zalandoresearch/flair) ⭐ 14,401 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - Very simple framework for state-of-the-art NLP.
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,771 | 🐛 230 | 🌐 Python | 📅 2026-11-11 -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* [flair](https://github.com/zalandoresearch/flair) ⭐ 14,400 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - Very simple framework for state-of-the-art NLP.
 * [torchtext](https://github.com/pytorch/text) ⚠️ Archived - Data loaders and abstractions for text and NLP. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Phonemizer](https://github.com/bootphon/phonemizer) ⭐ 1,578 | 🐛 14 | 🌐 Python | 📅 2026-11-02 - Simple text-to-phonemes converter for multiple languages.
-* [KerasNLP](https://github.com/keras-team/keras-nlp) ⭐ 999 | 🐛 220 | 🌐 Python | 📅 2026-11-12 - Modular Natural Language Processing workflows with Keras. <img height="20" src="img/keras_big.png" alt="Keras based/compatible">
-* [CLTK](https://github.com/cltk/cltk) ⭐ 930 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - The Classical Language Toolkik.
+* [KerasNLP](https://github.com/keras-team/keras-nlp) ⭐ 999 | 🐛 222 | 🌐 Python | 📅 2026-11-12 - Modular Natural Language Processing workflows with Keras. <img height="20" src="img/keras_big.png" alt="Keras based/compatible">
+* [CLTK](https://github.com/cltk/cltk) ⭐ 931 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - The Classical Language Toolkik.
 * [skift](https://github.com/shaypal5/skift) ⭐ 233 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-06-07 - Scikit-learn wrappers for Python fastText. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2015-08-15 - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) ⭐ 205 | 🐛 0 | 🌐 Java | 📅 2026-06-10.
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
@@ -236,62 +236,62 @@
 
 ## Computer Audition
 
-* [librosa](https://github.com/librosa/librosa) ⭐ 8,916 | 🐛 51 | 🌐 Python | 📅 2026-11-12 - Python library for audio and music analysis.
+* [librosa](https://github.com/librosa/librosa) ⭐ 8,929 | 🐛 50 | 🌐 Python | 📅 2026-11-13 - Python library for audio and music analysis.
 * [Essentia](https://github.com/MTG/essentia) ⭐ 3,803 | 🐛 448 | 🌐 C++ | 📅 2026-11-05 - Library for audio and music analysis, description, and synthesis.
-* [aubio](https://github.com/aubio/aubio) ⭐ 3,787 | 🐛 161 | 🌐 C | 📅 2026-04-10 - A library for audio and music analysis.
-* [torchaudio](https://github.com/pytorch/audio) ⭐ 2,966 | 🐛 345 | 🌐 Python | 📅 2026-11-12 - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [madmom](https://github.com/CPJKU/madmom) ⭐ 1,738 | 🐛 82 | 🌐 Python | 📅 2026-03-20 - Python audio and music signal processing library.
+* [aubio](https://github.com/aubio/aubio) ⭐ 3,788 | 🐛 161 | 🌐 C | 📅 2026-04-10 - A library for audio and music analysis.
+* [torchaudio](https://github.com/pytorch/audio) ⭐ 2,966 | 🐛 345 | 🌐 Python | 📅 2026-11-13 - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [madmom](https://github.com/CPJKU/madmom) ⭐ 1,740 | 🐛 82 | 🌐 Python | 📅 2026-03-20 - Python audio and music signal processing library.
 * [Marsyas](https://github.com/marsyas/marsyas) ⭐ 427 | 🐛 36 | 🌐 C++ | 📅 2023-04-19 - Music Analysis, Retrieval, and Synthesis for Audio Signals.
 * [Yaafe](https://github.com/Yaafe/Yaafe) ⭐ 248 | 🐛 17 | 🌐 C++ | 📅 2021-06-21 - Audio features extraction.
 * [muda](https://github.com/bmcfee/muda) ⭐ 239 | 🐛 9 | 🌐 Python | 📅 2021-05-03 - A library for augmenting annotated audio data.
-* [LibXtract](https://github.com/jamiebullock/LibXtract) ⭐ 233 | 🐛 2 | 🌐 C | 📅 2026-11-12 - A simple, portable, lightweight library of audio feature extraction functions.
+* [LibXtract](https://github.com/jamiebullock/LibXtract) ⭐ 233 | 🐛 1 | 🌐 C | 📅 2026-11-13 - A simple, portable, lightweight library of audio feature extraction functions.
 
 ## Computer Vision
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,550 | 🐛 2,941 | 🌐 C++ | 📅 2026-11-12 - Open Source Computer Vision Library.
-* [torchvision](https://github.com/pytorch/vision) ⭐ 18,003 | 🐛 1,268 | 🌐 Python | 📅 2026-11-12 - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,555 | 🐛 2,924 | 🌐 C++ | 📅 2026-11-13 - Open Source Computer Vision Library.
+* [torchvision](https://github.com/pytorch/vision) ⭐ 18,006 | 🐛 1,273 | 🌐 Python | 📅 2026-11-13 - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [albumentations](https://github.com/albu/albumentations) ⚠️ Archived - Fast image augmentation library and easy-to-use wrapper around other libraries.
 * [imgaug](https://github.com/aleju/imgaug) ⭐ 14,739 | 🐛 311 | 🌐 Python | 📅 2024-07-30 - Image augmentation for machine learning experiments.
 * [LAVIS](https://github.com/salesforce/LAVIS) ⚠️ Archived - A One-stop Library for Language-Vision Intelligence.
-* [PyTorch3D](https://github.com/facebookresearch/pytorch3d) ⭐ 9,998 | 🐛 320 | 🌐 Python | 📅 2026-11-12 - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,638 | 🐛 969 | 🌐 Python | 📅 2026-11-11 - Image Processing SciKit (Toolbox for SciPy).
+* [PyTorch3D](https://github.com/facebookresearch/pytorch3d) ⭐ 9,997 | 🐛 318 | 🌐 Python | 📅 2026-11-13 - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,638 | 🐛 973 | 🌐 Python | 📅 2026-11-11 - Image Processing SciKit (Toolbox for SciPy).
 * [Augmentor](https://github.com/mdbloice/Augmentor) ⭐ 5,131 | 🐛 139 | 🌐 Python | 📅 2024-03-21 - Image augmentation library in Python for machine learning.
-* [Decord](https://github.com/dmlc/decord) ⭐ 2,531 | 🐛 220 | 🌐 C++ | 📅 2024-07-17 - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
+* [Decord](https://github.com/dmlc/decord) ⭐ 2,532 | 🐛 220 | 🌐 C++ | 📅 2024-07-17 - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
 * [MMEngine](https://github.com/open-mmlab/mmengine) ⭐ 1,504 | 🐛 271 | 🌐 Python | 📅 2026-07-13 - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [KerasCV](https://github.com/keras-team/keras-cv) ⚠️ Archived - Industry-strength Computer Vision workflows with Keras. <img height="20" src="img/keras_big.png" alt="MXNet based">
 * [imgaug\_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
 
 ## Time Series
 
-* [Prophet](https://github.com/facebook/prophet) ⭐ 20,486 | 🐛 470 | 🌐 Python | 📅 2026-11-11 - Automatic Forecasting Procedure.
-* [sktime](https://github.com/alan-turing-institute/sktime) ⭐ 10,097 | 🐛 2,779 | 🌐 Python | 📅 2026-11-11 - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [darts](https://github.com/unit8co/darts) ⭐ 9,586 | 🐛 234 | 🌐 Python | 📅 2026-11-12 - A python library for easy manipulation and forecasting of time series.
-* [statsforecast](https://github.com/Nixtla/statsforecast) ⭐ 4,977 | 🐛 201 | 🌐 Python | 📅 2026-11-12 - Lightning fast forecasting with statistical and econometric models.
-* [neuralforecast](https://github.com/Nixtla/neuralforecast) ⭐ 4,315 | 🐛 91 | 🌐 Python | 📅 2026-11-12 - Scalable machine learning-based time series forecasting.
-* [maya](https://github.com/timofurrer/maya) ⭐ 3,410 | 🐛 21 | 🌐 Python | 📅 2024-07-19 - makes it very easy to parse a string and for changing timezones
-* [tslearn](https://github.com/rtavenar/tslearn) ⭐ 3,191 | 🐛 92 | 🌐 Python | 📅 2026-11-12 - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [Prophet](https://github.com/facebook/prophet) ⭐ 20,487 | 🐛 472 | 🌐 Python | 📅 2026-11-11 - Automatic Forecasting Procedure.
+* [sktime](https://github.com/alan-turing-institute/sktime) ⭐ 10,097 | 🐛 2,790 | 🌐 Python | 📅 2026-11-13 - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [darts](https://github.com/unit8co/darts) ⭐ 9,589 | 🐛 232 | 🌐 Python | 📅 2026-11-13 - A python library for easy manipulation and forecasting of time series.
+* [statsforecast](https://github.com/Nixtla/statsforecast) ⭐ 4,978 | 🐛 195 | 🌐 Python | 📅 2026-11-13 - Lightning fast forecasting with statistical and econometric models.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) ⭐ 4,317 | 🐛 96 | 🌐 Python | 📅 2026-11-12 - Scalable machine learning-based time series forecasting.
+* [maya](https://github.com/timofurrer/maya) ⭐ 3,409 | 🐛 21 | 🌐 Python | 📅 2024-07-19 - makes it very easy to parse a string and for changing timezones
+* [tslearn](https://github.com/rtavenar/tslearn) ⭐ 3,191 | 🐛 93 | 🌐 Python | 📅 2026-11-13 - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [PyFlux](https://github.com/RJT1990/pyflux) ⭐ 2,138 | 🐛 93 | 🌐 Python | 📅 2023-10-24 - Open source time series library for Python.
-* [greykite](https://github.com/linkedin/greykite) ⭐ 1,857 | 🐛 15 | 🌐 Python | 📅 2025-02-20 - A flexible, intuitive, and fast forecasting library next.
-* [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) ⭐ 1,546 | 🐛 11 | 🌐 Python | 📅 2026-11-12 - Time series forecasting with machine learning models
-* [mlforecast](https://github.com/Nixtla/mlforecast) ⭐ 1,307 | 🐛 35 | 🌐 Python | 📅 2026-11-12 - Scalable machine learning-based time series forecasting.
+* [greykite](https://github.com/linkedin/greykite) ⭐ 1,856 | 🐛 15 | 🌐 Python | 📅 2025-02-20 - A flexible, intuitive, and fast forecasting library next.
+* [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) ⭐ 1,546 | 🐛 11 | 🌐 Python | 📅 2026-11-13 - Time series forecasting with machine learning models
+* [mlforecast](https://github.com/Nixtla/mlforecast) ⭐ 1,307 | 🐛 37 | 🌐 Python | 📅 2026-11-13 - Scalable machine learning-based time series forecasting.
 * [luminol](https://github.com/linkedin/luminol) ⭐ 1,233 | 🐛 35 | 🌐 Python | 📅 2025-08-22 - Anomaly Detection and Correlation library.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) ⚠️ Archived - ML powered analytics engine for outlier/anomaly detection and root cause analysis
-* [tick](https://github.com/X-DataInitiative/tick) ⭐ 625 | 🐛 78 | 🌐 Python | 📅 2026-11-10 - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [tick](https://github.com/X-DataInitiative/tick) ⭐ 626 | 🐛 78 | 🌐 Python | 📅 2026-11-10 - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [bayesloop](https://github.com/christophmark/bayesloop) ⭐ 172 | 🐛 4 | 🌐 Python | 📅 2026-06-19 - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 * [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 
 ## Reinforcement Learning
 
-* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 14,008 | 🐛 89 | 🌐 Python | 📅 2026-10-26 - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,808 | 🐛 143 | 🌐 Python | 📅 2026-11-12 - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym) ⚠️ Archived).
-* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) ⭐ 11,051 | 🐛 149 | 🌐 Python | 📅 2026-04-03 - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [Dopamine](https://github.com/google/dopamine) ⭐ 10,932 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-12 - A research framework for fast prototyping of reinforcement learning algorithms.
-* [cleanrl](https://github.com/vwxyzjn/cleanrl) ⭐ 10,679 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
-* [keras-rl](https://github.com/keras-rl/keras-rl) ⭐ 5,547 | 🐛 47 | 🌐 Python | 📅 2023-09-17 - Deep Reinforcement Learning for Keras. <img height="20" src="img/keras_big.png" alt="Keras compatible">
-* [Acme](https://github.com/google-deepmind/acme) ⭐ 4,085 | 🐛 109 | 🌐 Python | 📅 2026-11-12 - A library of reinforcement learning components and agents.
-* [Horizon](https://github.com/facebookresearch/Horizon) ⭐ 3,727 | 🐛 85 | 🌐 Python | 📅 2026-11-06 - A platform for Applied Reinforcement Learning.
+* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 14,009 | 🐛 89 | 🌐 Python | 📅 2026-10-26 - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,812 | 🐛 146 | 🌐 Python | 📅 2026-11-12 - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym) ⚠️ Archived).
+* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) ⭐ 11,052 | 🐛 149 | 🌐 Python | 📅 2026-04-03 - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [Dopamine](https://github.com/google/dopamine) ⭐ 10,933 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-12 - A research framework for fast prototyping of reinforcement learning algorithms.
+* [cleanrl](https://github.com/vwxyzjn/cleanrl) ⭐ 10,683 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+* [keras-rl](https://github.com/keras-rl/keras-rl) ⭐ 5,546 | 🐛 47 | 🌐 Python | 📅 2023-09-17 - Deep Reinforcement Learning for Keras. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Acme](https://github.com/google-deepmind/acme) ⭐ 4,085 | 🐛 113 | 🌐 Python | 📅 2026-11-12 - A library of reinforcement learning components and agents.
+* [Horizon](https://github.com/facebookresearch/Horizon) ⭐ 3,727 | 🐛 85 | 🌐 Python | 📅 2026-11-13 - A platform for Applied Reinforcement Learning.
 * [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,649 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - OpenDILab Decision AI Engine. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,553 | 🐛 60 | 🌐 Python | 📅 2026-11-11 - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
+* [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,553 | 🐛 61 | 🌐 Python | 📅 2026-11-11 - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,303 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 * [TRFL](https://github.com/deepmind/trfl) ⭐ 3,130 | 🐛 7 | 🌐 Python | 📅 2022-12-08 - TensorFlow Reinforcement Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TF-Agents](https://github.com/tensorflow/agents) ⭐ 3,035 | 🐛 214 | 🌐 Python | 📅 2026-01-16 - A library for Reinforcement Learning in TensorFlow. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
@@ -300,7 +300,7 @@
 * [Imitation](https://github.com/HumanCompatibleAI/imitation) ⭐ 1,813 | 🐛 100 | 🌐 Python | 📅 2025-01-07 - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [d3rlpy](https://github.com/takuseno/d3rlpy) ⭐ 1,686 | 🐛 67 | 🌐 Python | 📅 2025-09-10 - An offline deep reinforcement learning library.
 * [EnvPool](https://github.com/sail-sg/envpool) ⭐ 1,535 | 🐛 16 | 🌐 C++ | 📅 2026-11-08 - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
-* [SKRL](https://github.com/Toni-SM/skrl) ⭐ 1,104 | 🐛 40 | 🌐 Python | 📅 2026-11-12 - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [SKRL](https://github.com/Toni-SM/skrl) ⭐ 1,104 | 🐛 42 | 🌐 Python | 📅 2026-11-12 - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [MAgent2](https://github.com/Farama-Foundation/MAgent2) ⭐ 963 | 🐛 17 | 🌐 Python | 📅 2026-11-12 - An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments.
 * [Shimmy](https://github.com/Farama-Foundation/Shimmy) ⭐ 931 | 🐛 5 | 🌐 Python | 📅 2026-11-12 - An API conversion tool for popular external reinforcement learning environments.
 * [Machin](https://github.com/iffiX/machin) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2021-08-08 -  A reinforcement library designed for pytorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -309,8 +309,8 @@
 
 ## Graph Machine Learning
 
-* [pytorch\_geometric](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,141 | 🐛 1,401 | 🌐 Python | 📅 2026-11-06 - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [TRL](https://github.com/huggingface/trl) ⭐ 19,729 | 🐛 301 | 🌐 Python | 📅 2026-11-12 - Train transformer language models with reinforcement learning.
+* [pytorch\_geometric](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,142 | 🐛 1,401 | 🌐 Python | 📅 2026-11-06 - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [TRL](https://github.com/huggingface/trl) ⭐ 19,733 | 🐛 299 | 🌐 Python | 📅 2026-11-13 - Train transformer language models with reinforcement learning.
 * [dgl](https://github.com/dmlc/dgl) ⭐ 14,290 | 🐛 611 | 🌐 Python | 📅 2025-07-31 - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/tf_big2.png" alt="TensorFlow"> <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [Graph Nets](https://github.com/google-deepmind/graph_nets) ⭐ 5,405 | 🐛 10 | 🌐 Python | 📅 2022-12-12 - Build Graph Nets in Tensorflow. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 * [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) ⚠️ Archived - Generate embeddings from large-scale graph-structured data. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -318,19 +318,19 @@
 * [pytorch\_geometric\_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) ⭐ 2,997 | 🐛 31 | 🌐 Python | 📅 2026-05-30 - Temporal Extension Library for PyTorch Geometric. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Spektral](https://github.com/danielegrattarola/spektral) ⭐ 2,403 | 🐛 74 | 🌐 Python | 📅 2024-01-21 - Deep learning on graphs. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,292 | 🐛 11 | 🌐 Python | 📅 2024-07-17 - An unsupervised machine learning library for graph-structured data.
-* [TensorFlow GNN](https://github.com/tensorflow/gnn) ⭐ 1,550 | 🐛 44 | 🌐 Python | 📅 2026-11-11 - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
+* [TensorFlow GNN](https://github.com/tensorflow/gnn) ⭐ 1,551 | 🐛 46 | 🌐 Python | 📅 2026-11-13 - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 * [Jraph](https://github.com/google-deepmind/jraph) ⚠️ Archived - A Graph Neural Network Library in Jax.
 * [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) ⭐ 1,143 | 🐛 22 | 🌐 Python | 📅 2025-11-20 -An autoML framework & toolkit for machine learning on graphs.
 * [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) ⭐ 1,143 | 🐛 22 | 🌐 Python | 📅 2025-11-20 - An autoML framework & toolkit for machine learning on graphs.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) ⭐ 714 | 🐛 7 | 🌐 Python | 📅 2025-12-20 - A library for sampling graph structured data.
 * [GRAPE](https://github.com/AnacletoLAB/grape/tree/main) ⭐ 644 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-02-24 - GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
-* [Cleora](https://github.com/BaseModelAI/cleora) ⭐ 546 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-02 - The Graph Embedding Engine.
+* [Cleora](https://github.com/BaseModelAI/cleora) ⭐ 547 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-02 - The Graph Embedding Engine.
 * [PyTorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-09-03 -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [GreatX](https://github.com/EdisonLeeeee/GreatX) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2024-10-15 - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## Graph Manipulation
 
-* [Networkx](https://github.com/networkx/networkx) ⭐ 17,390 | 🐛 307 | 🌐 Python | 📅 2026-11-12 - Network Analysis in Python.
+* [Networkx](https://github.com/networkx/networkx) ⭐ 17,392 | 🐛 307 | 🌐 Python | 📅 2026-11-12 - Network Analysis in Python.
 * [Rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,780 | 🐛 144 | 🌐 Rust | 📅 2026-11-12 - A high performance Python graph library implemented in Rust.
 * [igraph](https://github.com/igraph/python-igraph) ⭐ 1,465 | 🐛 65 | 🌐 Python | 📅 2026-11-03 - Python interface for igraph.
 * [graph-tool](https://graph-tool.skewed.de/) - an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
@@ -348,14 +348,14 @@
 ## Probabilistic Graphical Models
 
 * [pomegranate](https://github.com/jmschrei/pomegranate) ⭐ 3,545 | 🐛 46 | 🌐 Python | 📅 2025-03-06 - Probabilistic and graphical models for Python. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,384 | 🐛 682 | 🌐 Python | 📅 2026-11-12 - A python library for working with Probabilistic Graphical Models.
+* [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,385 | 🐛 687 | 🌐 Python | 📅 2026-11-13 - A python library for working with Probabilistic Graphical Models.
 * [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
 ## Probabilistic Methods
 
-* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,848 | 🐛 481 | 🌐 Python | 📅 2026-11-12 - Bayesian Stochastic Modelling in Python.
-* [pyro](https://github.com/uber/pyro) ⭐ 9,076 | 🐛 322 | 🌐 Python | 📅 2026-10-05 - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch) ⭐ 3,937 | 🐛 479 | 🌐 Python | 📅 2026-10-02 - A highly efficient and modular implementation of Gaussian Processes in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,849 | 🐛 483 | 🌐 Python | 📅 2026-11-12 - Bayesian Stochastic Modelling in Python.
+* [pyro](https://github.com/uber/pyro) ⭐ 9,076 | 🐛 324 | 🌐 Python | 📅 2026-10-05 - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch) ⭐ 3,937 | 🐛 480 | 🌐 Python | 📅 2026-10-02 - A highly efficient and modular implementation of Gaussian Processes in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [emcee](https://github.com/dfm/emcee) ⭐ 1,605 | 🐛 77 | 🌐 Python | 📅 2026-11-12 - The Python ensemble sampling toolkit for affine-invariant MCMC.
 * [pyhsmm](https://github.com/mattjj/pyhsmm) ⭐ 578 | 🐛 46 | 🌐 Python | 📅 2025-01-25 - Bayesian inference in HSMMs and HMMs.
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ⭐ 523 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2021-09-22 - Python package for Bayesian Machine Learning with scikit-learn API. <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -370,9 +370,9 @@
 
 ## Model Explanation
 
-* [Netron](https://github.com/lutzroeder/Netron) ⭐ 33,683 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-12 - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
-* [shap](https://github.com/slundberg/shap) ⭐ 25,859 | 🐛 1,018 | 🌐 Jupyter Notebook | 📅 2026-11-12 - A unified approach to explain the output of any machine learning model. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Lime](https://github.com/marcotcr/lime) ⭐ 12,169 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-25 - Explaining the predictions of any machine learning classifier. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [Netron](https://github.com/lutzroeder/Netron) ⭐ 33,691 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-13 - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+* [shap](https://github.com/slundberg/shap) ⭐ 25,861 | 🐛 1,019 | 🌐 Jupyter Notebook | 📅 2026-11-13 - A unified approach to explain the output of any machine learning model. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [Lime](https://github.com/marcotcr/lime) ⭐ 12,170 | 🐛 135 | 🌐 JavaScript | 📅 2024-07-25 - Explaining the predictions of any machine learning classifier. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) ⭐ 8,001 | 🐛 91 | 🌐 Python | 📅 2026-07-14 - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 * [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,979 | 🐛 47 | 🌐 C++ | 📅 2026-11-09 - InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [lucid](https://github.com/tensorflow/lucid) ⚠️ Archived - A collection of infrastructure and tools for research in neural network interpretability.
@@ -400,9 +400,9 @@
 
 ## Genetic Programming
 
-* [DEAP](https://github.com/DEAP/deap) ⭐ 6,462 | 🐛 292 | 🌐 Python | 📅 2026-04-17 - Distributed Evolutionary Algorithms in Python.
-* [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) ⭐ 2,235 | 🐛 46 | 🌐 Python | 📅 2026-10-23 - Genetic Algorithm in Python. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/keras_big.png" alt="keras">
-* [gplearn](https://github.com/trevorstephens/gplearn) ⭐ 1,897 | 🐛 17 | 🌐 Python | 📅 2026-08-14 - Genetic Programming in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [DEAP](https://github.com/DEAP/deap) ⭐ 6,462 | 🐛 293 | 🌐 Python | 📅 2026-04-17 - Distributed Evolutionary Algorithms in Python.
+* [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) ⭐ 2,237 | 🐛 46 | 🌐 Python | 📅 2026-10-23 - Genetic Algorithm in Python. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/keras_big.png" alt="keras">
+* [gplearn](https://github.com/trevorstephens/gplearn) ⭐ 1,899 | 🐛 17 | 🌐 Python | 📅 2026-08-14 - Genetic Programming in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [sklearn-genetic](https://github.com/manuel-calzolari/sklearn-genetic) ⭐ 327 | 🐛 10 | 🌐 Python | 📅 2024-01-20 - Genetic feature selection module for scikit-learn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [karoo\_gp](https://github.com/kstaats/karoo_gp) ⭐ 164 | 🐛 22 | 🌐 Python | 📅 2022-10-31 - A Genetic Programming platform for Python with GPU support. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [monkeys](https://github.com/hchasestevens/monkeys) ⭐ 123 | 🐛 4 | 🌐 Python | 📅 2018-06-13 - A strongly-typed genetic programming framework for Python.
@@ -411,21 +411,21 @@
 
 ## Optimization
 
-* [Optuna](https://github.com/optuna/optuna) ⭐ 15,041 | 🐛 22 | 🌐 Python | 📅 2026-11-12 - A hyperparameter optimization framework.
-* [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) ⭐ 8,736 | 🐛 7 | 🌐 Python | 📅 2026-10-16 - A Python implementation of global optimization with gaussian processes.
-* [hyperopt](https://github.com/hyperopt/hyperopt) ⭐ 7,599 | 🐛 25 | 🌐 Python | 📅 2026-11-09 - Distributed Asynchronous Hyperparameter Optimization in Python.
-* [scikit-opt](https://github.com/guofei9987/scikit-opt) ⭐ 6,728 | 🐛 77 | 🌐 Python | 📅 2026-03-25 - Heuristic Algorithms for optimization.
-* [BoTorch](https://github.com/pytorch/botorch) ⭐ 3,651 | 🐛 250 | 🌐 Jupyter Notebook | 📅 2026-11-12 - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [pymoo](https://github.com/anyoptimization/pymoo) ⭐ 2,996 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Multi-objective Optimization in Python.
-* [POT](https://github.com/rflamary/POT) ⭐ 2,862 | 🐛 74 | 🌐 Python | 📅 2026-11-05 - Python Optimal Transport library.
+* [Optuna](https://github.com/optuna/optuna) ⭐ 15,042 | 🐛 19 | 🌐 Python | 📅 2026-11-13 - A hyperparameter optimization framework.
+* [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) ⭐ 8,739 | 🐛 7 | 🌐 Python | 📅 2026-10-16 - A Python implementation of global optimization with gaussian processes.
+* [hyperopt](https://github.com/hyperopt/hyperopt) ⭐ 7,598 | 🐛 25 | 🌐 Python | 📅 2026-11-09 - Distributed Asynchronous Hyperparameter Optimization in Python.
+* [scikit-opt](https://github.com/guofei9987/scikit-opt) ⭐ 6,727 | 🐛 77 | 🌐 Python | 📅 2026-03-25 - Heuristic Algorithms for optimization.
+* [BoTorch](https://github.com/pytorch/botorch) ⭐ 3,651 | 🐛 256 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [pymoo](https://github.com/anyoptimization/pymoo) ⭐ 2,996 | 🐛 2 | 🌐 Python | 📅 2026-11-12 - Multi-objective Optimization in Python.
+* [POT](https://github.com/rflamary/POT) ⭐ 2,862 | 🐛 76 | 🌐 Python | 📅 2026-11-13 - Python Optimal Transport library.
 * [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) ⚠️ Archived - Sequential model-based optimization with a `scipy.optimize` interface.
-* [nlopt](https://github.com/stevengj/nlopt) ⭐ 2,289 | 🐛 97 | 🌐 C | 📅 2026-10-17 - Library for nonlinear optimization (global and local, constrained or unconstrained).
+* [nlopt](https://github.com/stevengj/nlopt) ⭐ 2,289 | 🐛 96 | 🌐 C | 📅 2026-11-13 - Library for nonlinear optimization (global and local, constrained or unconstrained).
 * [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) ⭐ 1,648 | 🐛 78 | 🌐 Python | 📅 2025-04-15 - Hyper-parameter optimization for sklearn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Talos](https://github.com/autonomio/talos) ⭐ 1,635 | 🐛 14 | 🌐 Python | 📅 2026-11-12 - Hyperparameter Optimization for Keras Models.
+* [Talos](https://github.com/autonomio/talos) ⭐ 1,634 | 🐛 13 | 🌐 Python | 📅 2026-11-13 - Hyperparameter Optimization for Keras Models.
 * [Spearmint](https://github.com/HIPS/Spearmint) ⭐ 1,574 | 🐛 78 | 🌐 Python | 📅 2019-12-27 - Bayesian optimization.
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms) ⭐ 1,400 | 🐛 42 | 🌐 Python | 📅 2024-08-06 - A research toolkit for particle swarm optimization in Python.
-* [pycma](https://github.com/CMA-ES/pycma?tab=readme-ov-file) ⭐ 1,368 | 🐛 97 | 🌐 Jupyter Notebook | 📅 2026-11-01 - Python implementation of CMA-ES.
-* [SMAC3](https://github.com/automl/SMAC3) ⭐ 1,272 | 🐛 108 | 🌐 Python | 📅 2026-11-12 - Sequential Model-based Algorithm Configuration.
+* [pycma](https://github.com/CMA-ES/pycma?tab=readme-ov-file) ⭐ 1,368 | 🐛 99 | 🌐 Jupyter Notebook | 📅 2026-11-01 - Python implementation of CMA-ES.
+* [SMAC3](https://github.com/automl/SMAC3) ⭐ 1,273 | 🐛 108 | 🌐 Python | 📅 2026-11-12 - Sequential Model-based Algorithm Configuration.
 * [sklearn-deap](https://github.com/rsteca/sklearn-deap) ⭐ 772 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2024-02-10 - Use evolutionary algorithms instead of gridsearch in scikit-learn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Platypus](https://github.com/Project-Platypus/Platypus) ⭐ 655 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - A Free and Open Source Python Library for Multiobjective Optimization.
 * [Solid](https://github.com/100/Solid) ⭐ 584 | 🐛 7 | 🌐 Python | 📅 2019-07-19 - A comprehensive gradient-free optimization framework written in Python.
@@ -440,14 +440,14 @@
 
 ### General
 
-* [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,489 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2026-07-06 - Automatic extraction of relevant features from time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,490 | 🐛 82 | 🌐 Jupyter Notebook | 📅 2026-07-06 - Automatic extraction of relevant features from time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Featuretools](https://github.com/Featuretools/featuretools) ⭐ 7,697 | 🐛 174 | 🌐 Python | 📅 2026-09-11 - Automated feature engineering.
 * [Feature Engine](https://github.com/feature-engine/feature_engine) ⭐ 2,297 | 🐛 133 | 🌐 Python | 📅 2026-09-19 - Feature engineering package with sklearn-like functionality. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [OpenFE](https://github.com/IIIS-Li-Group/OpenFE) ⭐ 900 | 🐛 24 | 🌐 Python | 📅 2024-05-27 - Automated feature generation with expert-level performance.
+* [OpenFE](https://github.com/IIIS-Li-Group/OpenFE) ⭐ 901 | 🐛 24 | 🌐 Python | 📅 2024-05-27 - Automated feature generation with expert-level performance.
 * [Feature Forge](https://github.com/machinalis/featureforge) ⭐ 389 | 🐛 11 | 🌐 Python | 📅 2017-12-26 - A set of tools for creating and testing machine learning features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ⭐ 128 | 🐛 11 | 🌐 Python | 📅 2025-06-10 - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [NitroFE](https://github.com/NITRO-AI/NitroFE) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2022-05-04 - Moving window features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [tubular](https://github.com/azukds/tubular) ⭐ 109 | 🐛 73 | 🌐 Python | 📅 2026-11-12 - Collection of scikit-learn compatible transformers written in [narwhals](https://github.com/narwhals-dev/narwhals) ⭐ 1,747 | 🐛 287 | 🌐 Python | 📅 2026-11-12, which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="img/sklearn_big.png" alt="sklearn"><img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [tubular](https://github.com/azukds/tubular) ⭐ 109 | 🐛 73 | 🌐 Python | 📅 2026-11-13 - Collection of scikit-learn compatible transformers written in [narwhals](https://github.com/narwhals-dev/narwhals) ⭐ 1,748 | 🐛 274 | 🌐 Python | 📅 2026-11-13, which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="img/sklearn_big.png" alt="sklearn"><img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [few](https://github.com/lacava/few) ⭐ 54 | 🐛 9 | 🌐 Python | 📅 2020-06-11 - A feature engineering wrapper for sklearn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) ⭐ 41 | 🐛 25 | 🌐 Python | 📅 2016-08-08 - A scikit-learn addon to operate on set/"group"-based features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [dirty\_cat](https://github.com/dirty-cat/dirty_cat) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-03-12 - Machine learning on dirty tabular data (especially: string-based variables for classifcation and regression). <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -455,7 +455,7 @@
 
 ### Feature Selection
 
-* [boruta\_py](https://github.com/scikit-learn-contrib/boruta_py) ⭐ 1,635 | 🐛 48 | 🌐 Python | 📅 2025-11-13 - Implementations of the Boruta all-relevant feature selection method. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [boruta\_py](https://github.com/scikit-learn-contrib/boruta_py) ⭐ 1,635 | 🐛 50 | 🌐 Python | 📅 2025-11-13 - Implementations of the Boruta all-relevant feature selection method. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-feature](https://github.com/jundongl/scikit-feature) ⭐ 1,588 | 🐛 46 | 🌐 Python | 📅 2024-07-11 - Feature selection repository in Python.
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ⭐ 422 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-12 - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [zoofs](https://github.com/jaswinder9051998/zoofs) ⭐ 255 | 🐛 22 | 🌐 Python | 📅 2026-01-09 - A feature selection library based on evolutionary algorithms.
@@ -465,18 +465,18 @@
 
 ### General Purposes
 
-* [Matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,453 | 🐛 1,474 | 🌐 Python | 📅 2026-11-12 - Plotting with Python.
-* [seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,109 | 🐛 254 | 🌐 Python | 📅 2026-10-08 - Statistical data visualization using matplotlib.
+* [Matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,455 | 🐛 1,472 | 🌐 Python | 📅 2026-11-13 - Plotting with Python.
+* [seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,111 | 🐛 254 | 🌐 Python | 📅 2026-10-08 - Statistical data visualization using matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) ⭐ 4,212 | 🐛 15 | 🌐 Python | 📅 2024-05-14 - Missing data visualization module for Python.
 * [chartify](https://github.com/spotify/chartify/) ⭐ 3,656 | 🐛 56 | 🌐 Python | 📅 2024-10-16 - Python library that makes it easy for data scientists to create charts.
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) ⭐ 1,702 | 🐛 11 | 🌐 Python | 📅 2019-01-31 - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) ⭐ 779 | 🐛 37 | 🌐 Python | 📅 2024-06-12 - Ternary plotting library for Python with matplotlib.
-* [physt](https://github.com/janpipek/physt) ⭐ 136 | 🐛 43 | 🌐 Python | 📅 2026-11-04 - Improved histograms.
+* [physt](https://github.com/janpipek/physt) ⭐ 136 | 🐛 44 | 🌐 Python | 📅 2026-11-13 - Improved histograms.
 
 ### Interactive plots
 
-* [Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,475 | 🐛 790 | 🌐 TypeScript | 📅 2026-11-12 - Interactive Web Plotting for Python.
-* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,780 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - Migrated from [Echarts](https://github.com/apache/echarts) ⭐ 67,709 | 🐛 1,476 | 🌐 TypeScript | 📅 2026-10-13, a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="img/pyecharts.png" alt="pyecharts"> <img height="20" src="img/echarts.png" alt="echarts">
+* [Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,474 | 🐛 799 | 🌐 TypeScript | 📅 2026-11-14 - Interactive Web Plotting for Python.
+* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,779 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - Migrated from [Echarts](https://github.com/apache/echarts) ⭐ 67,719 | 🐛 1,478 | 🌐 TypeScript | 📅 2026-10-13, a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="img/pyecharts.png" alt="pyecharts"> <img height="20" src="img/echarts.png" alt="echarts">
 * [bqplot](https://github.com/bqplot/bqplot) ⭐ 3,696 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-27 - Plotting library for IPython/Jupyter notebooks
 * [animatplot](https://github.com/t-makaro/animatplot) ⭐ 421 | 🐛 17 | 🌐 Python | 📅 2024-08-29 - A python package for animating plots built on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
@@ -484,13 +484,13 @@
 
 ### Map
 
-* [geemap](https://github.com/giswqs/geemap) ⭐ 4,071 | 🐛 53 | 🌐 Python | 📅 2026-11-11 - Python package for interactive mapping with Google Earth Engine (GEE)
+* [geemap](https://github.com/giswqs/geemap) ⭐ 4,070 | 🐛 55 | 🌐 Python | 📅 2026-11-13 - Python package for interactive mapping with Google Earth Engine (GEE)
 * [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
 
 ### Automatic Plotting
 
-* [SweetViz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,133 | 🐛 41 | 🌐 Python | 📅 2026-04-11: Visualize and compare datasets, target values and associations, with one line of code.
-* [HoloViews](https://github.com/ioam/holoviews) ⭐ 2,919 | 🐛 1,040 | 🌐 Python | 📅 2026-11-12 - Stop plotting your data - annotate your data and let it visualize itself.
+* [SweetViz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,134 | 🐛 41 | 🌐 Python | 📅 2026-04-11: Visualize and compare datasets, target values and associations, with one line of code.
+* [HoloViews](https://github.com/ioam/holoviews) ⭐ 2,920 | 🐛 1,041 | 🌐 Python | 📅 2026-11-12 - Stop plotting your data - annotate your data and let it visualize itself.
 * [AutoViz](https://github.com/AutoViML/AutoViz) ⭐ 1,906 | 🐛 3 | 🌐 Python | 📅 2024-06-10: Visualize data automatically with 1 line of code (ideal for machine learning)
 
 ### NLP
@@ -499,9 +499,9 @@
 
 ## Deployment
 
-* [gradio](https://github.com/gradio-app/gradio) ⭐ 44,039 | 🐛 112 | 🌐 Python | 📅 2026-11-12 - Create UIs for your machine learning model in Python in 3 minutes.
-* [Vizro](https://github.com/mckinsey/vizro) ⭐ 3,823 | 🐛 5 | 🌐 Python | 📅 2026-11-12 - A toolkit for creating modular data visualization applications.
-* [Deepnote](https://github.com/deepnote/deepnote) ⭐ 3,033 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-12 - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
+* [gradio](https://github.com/gradio-app/gradio) ⭐ 44,053 | 🐛 113 | 🌐 Python | 📅 2026-11-13 - Create UIs for your machine learning model in Python in 3 minutes.
+* [Vizro](https://github.com/mckinsey/vizro) ⭐ 3,825 | 🐛 5 | 🌐 Python | 📅 2026-11-12 - A toolkit for creating modular data visualization applications.
+* [Deepnote](https://github.com/deepnote/deepnote) ⭐ 3,033 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-13 - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 * [streamsync](https://github.com/streamsync-cloud/streamsync) ⭐ 1,450 | 🐛 12 | 🌐 Python | 📅 2026-10-23 - No-code in the front, Python in the back. An open-source framework for creating data apps.
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy the machine learning model
@@ -511,23 +511,23 @@
 ## Statistics
 
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) ⭐ 13,753 | 🐛 329 | 🌐 Python | 📅 2026-11-05 - Create HTML profiling reports from pandas DataFrame objects. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,748 | 🐛 2,764 | 🌐 Python | 📅 2026-11-11 - Statistical modeling and econometrics in Python.
+* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,748 | 🐛 2,767 | 🌐 Python | 📅 2026-11-11 - Statistical modeling and econometrics in Python.
 * [Alphalens](https://github.com/quantopian/alphalens) ⭐ 4,509 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-02-12 - Performance analysis of predictive (alpha) stock factors.
-* [stockstats](https://github.com/jealous/stockstats) ⭐ 1,542 | 🐛 6 | 🌐 Python | 📅 2026-11-12 - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
+* [stockstats](https://github.com/jealous/stockstats) ⭐ 1,543 | 🐛 6 | 🌐 Python | 📅 2026-11-13 - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 * [pandas\_summary](https://github.com/mouradmourafiq/pandas-summary) ⭐ 534 | 🐛 10 | 🌐 Python | 📅 2026-11-11 - Extension to pandas dataframes describe function. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) ⭐ 392 | 🐛 0 | 🌐 Python | 📅 2026-10-18 - Pairwise Multiple Comparisons Post-hoc Tests.
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) ⭐ 392 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Pairwise Multiple Comparisons Post-hoc Tests.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2024-11-10 - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ## Data Manipulation
 
 ### Data Frames
 
-* [polars](https://github.com/pola-rs/polars) ⭐ 40,338 | 🐛 2,951 | 🌐 Rust | 📅 2026-11-12 - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+* [polars](https://github.com/pola-rs/polars) ⭐ 40,336 | 🐛 2,946 | 🌐 Rust | 📅 2026-11-13 - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 * [pandas\_profiling](https://github.com/pandas-profiling/pandas-profiling) ⭐ 13,753 | 🐛 329 | 🌐 Python | 📅 2026-11-05 - Create HTML profiling reports from pandas DataFrame objects
 * [modin](https://github.com/modin-project/modin) ⭐ 10,390 | 🐛 725 | 🌐 Python | 📅 2026-02-10 - Speed up your pandas workflows by changing a single line of code. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [cuDF](https://github.com/rapidsai/cudf) ⭐ 9,800 | 🐛 1,524 | 🌐 C++ | 📅 2026-11-13 - GPU DataFrame Library. <img height="20" src="img/pandas_big.png" alt="pandas compatible"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [cuDF](https://github.com/rapidsai/cudf) ⭐ 9,800 | 🐛 1,503 | 🌐 C++ | 📅 2026-11-14 - GPU DataFrame Library. <img height="20" src="img/pandas_big.png" alt="pandas compatible"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [vaex](https://github.com/vaexio/vaex) ⭐ 8,518 | 🐛 549 | 🌐 Python | 📅 2026-11-06 - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
-* [xarray](https://github.com/pydata/xarray) ⭐ 4,226 | 🐛 1,389 | 🌐 Python | 📅 2026-11-12 - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+* [xarray](https://github.com/pydata/xarray) ⭐ 4,226 | 🐛 1,391 | 🌐 Python | 📅 2026-11-13 - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
 * [blaze](https://github.com/blaze/blaze) ⭐ 3,191 | 🐛 269 | 🌐 Python | 📅 2023-09-29 - NumPy and pandas interface to Big Data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [Arctic](https://github.com/manahl/arctic) ⭐ 3,090 | 🐛 97 | 🌐 Python | 📅 2024-04-08 - High-performance datastore for time series and tick data.
 * [swifter](https://github.com/jmcarpenter2/swifter) ⭐ 2,630 | 🐛 26 | 🌐 Python | 📅 2024-03-20 - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
@@ -542,8 +542,8 @@
 ### Pipelines
 
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ⭐ 2,837 | 🐛 43 | 🌐 Python | 📅 2023-06-08 - pandas integration with sklearn. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,630 | 🐛 181 | 🌐 Jupyter Notebook | 📅 2026-11-09 - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
-* [pyjanitor](https://github.com/ericmjl/pyjanitor) ⭐ 1,498 | 🐛 60 | 🌐 Python | 📅 2026-11-12 - Clean APIs for data cleaning. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,630 | 🐛 182 | 🌐 Jupyter Notebook | 📅 2026-11-09 - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+* [pyjanitor](https://github.com/ericmjl/pyjanitor) ⭐ 1,498 | 🐛 60 | 🌐 Python | 📅 2026-11-13 - Clean APIs for data cleaning. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [Dplython](https://github.com/dodger487/dplython) ⭐ 759 | 🐛 28 | 🌐 Python | 📅 2016-12-30 - Dplyr for Python. <img height="20" src="img/R_big.png" alt="R inspired/ported lib">
 * [pdpipe](https://github.com/shaypal5/pdpipe) ⭐ 732 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Sasy pipelines for pandas DataFrames.
 * [dopanda](https://github.com/dovpanda-dev/dovpanda) ⭐ 477 | 🐛 29 | 🌐 Python | 📅 2024-12-01 -  Hints and tips for using pandas in an analysis environment. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
@@ -565,10 +565,10 @@
 
 ## Distributed Computing
 
-* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,145 | 🐛 1,440 | 🌐 C++ | 📅 2026-11-12 - PArallel Distributed Deep LEarning.
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,147 | 🐛 1,442 | 🌐 C++ | 📅 2026-11-13 - PArallel Distributed Deep LEarning.
 * [Horovod](https://github.com/uber/horovod) ⚠️ Archived - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [DMTK](https://github.com/Microsoft/DMTK) ⚠️ Archived - Microsoft Distributed Machine Learning Toolkit.
-* [Distributed](https://github.com/dask/distributed) ⭐ 1,697 | 🐛 1,530 | 🌐 Python | 📅 2026-11-12 - Distributed computation in Python.
+* [Distributed](https://github.com/dask/distributed) ⭐ 1,697 | 🐛 1,530 | 🌐 Python | 📅 2026-11-13 - Distributed computation in Python.
 * [dask-ml](https://github.com/dask/dask-ml) ⭐ 951 | 🐛 286 | 🌐 Python | 📅 2025-09-27 - Distributed and parallel machine learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Veles](https://github.com/Samsung/veles) ⭐ 916 | 🐛 36 | 🌐 C++ | 📅 2023-11-21 - Distributed machine learning platform.
 * [Jubatus](https://github.com/jubatus/jubatus) ⭐ 706 | 🐛 4 | 🌐 C++ | 📅 2019-05-16 - Framework and Library for Distributed Online Machine Learning.
@@ -576,34 +576,34 @@
 
 ## Experimentation
 
-* [mlflow](https://github.com/mlflow/mlflow) ⭐ 28,787 | 🐛 2,219 | 🌐 Python | 📅 2026-11-13 - Open source platform for the machine learning lifecycle.
-* [dvc](https://github.com/iterative/dvc) ⭐ 15,972 | 🐛 227 | 🌐 Python | 📅 2026-11-09 - Data Version Control | Git for Data & Models | ML Experiments Management.
-* [Sacred](https://github.com/IDSIA/sacred) ⭐ 4,383 | 🐛 113 | 🌐 Python | 📅 2025-10-22 - A tool to help you configure, organize, log, and reproduce experiments.
-* [Ax](https://github.com/facebook/Ax) ⭐ 2,842 | 🐛 174 | 🌐 Python | 📅 2026-11-10 - Adaptive Experimentation Platform. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [mlflow](https://github.com/mlflow/mlflow) ⭐ 28,794 | 🐛 2,219 | 🌐 Python | 📅 2026-11-14 - Open source platform for the machine learning lifecycle.
+* [dvc](https://github.com/iterative/dvc) ⭐ 15,973 | 🐛 228 | 🌐 Python | 📅 2026-11-09 - Data Version Control | Git for Data & Models | ML Experiments Management.
+* [Sacred](https://github.com/IDSIA/sacred) ⭐ 4,382 | 🐛 113 | 🌐 Python | 📅 2025-10-22 - A tool to help you configure, organize, log, and reproduce experiments.
+* [Ax](https://github.com/facebook/Ax) ⭐ 2,842 | 🐛 178 | 🌐 Python | 📅 2026-11-13 - Adaptive Experimentation Platform. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [envd](https://github.com/tensorchord/envd) ⭐ 2,243 | 🐛 137 | 🌐 Go | 📅 2026-11-02 - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 * [Neptune](https://neptune.ai) - A lightweight ML experiment tracking, results visualization, and management tool.
 
 ## Data Validation
 
-* [great\_expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,927 | 🐛 43 | 🌐 Python | 📅 2026-11-12 - Always know what to expect from your data.
-* [evidently](https://github.com/evidentlyai/evidently) ⭐ 8,060 | 🐛 369 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluate and monitor ML models from validation to production.
-* [pandera](https://github.com/unionai-oss/pandera) ⭐ 4,524 | 🐛 479 | 🌐 Python | 📅 2026-11-11 - A lightweight, flexible, and expressive statistical data testing library.
+* [great\_expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,926 | 🐛 45 | 🌐 Python | 📅 2026-11-13 - Always know what to expect from your data.
+* [evidently](https://github.com/evidentlyai/evidently) ⭐ 8,062 | 🐛 369 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluate and monitor ML models from validation to production.
+* [pandera](https://github.com/unionai-oss/pandera) ⭐ 4,525 | 🐛 482 | 🌐 Python | 📅 2026-11-13 - A lightweight, flexible, and expressive statistical data testing library.
 * [deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,069 | 🐛 271 | 🌐 Python | 📅 2025-12-28 - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) ⭐ 787 | 🐛 15 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data.
-* [DataComPy](https://github.com/capitalone/datacompy) ⭐ 670 | 🐛 9 | 🌐 Python | 📅 2026-11-12- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+* [DataComPy](https://github.com/capitalone/datacompy) ⭐ 670 | 🐛 10 | 🌐 Python | 📅 2026-11-12- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 ## Evaluation
 
 * [AI Fairness 360](https://github.com/IBM/AIF360) ⭐ 2,883 | 🐛 235 | 🌐 Python | 📅 2026-06-15 - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
-* [alibi-detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,556 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Algorithms for outlier, adversarial and drift detection.<img height="20" src="img/alibi-detect.png" alt="sklearn">
+* [alibi-detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,556 | 🐛 152 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Algorithms for outlier, adversarial and drift detection.<img height="20" src="img/alibi-detect.png" alt="sklearn">
 * [Metrics](https://github.com/benhamner/Metrics) ⭐ 1,649 | 🐛 35 | 🌐 Python | 📅 2023-01-11 - Machine learning evaluation metric.
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ⭐ 582 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-01-11 - Library of useful metrics and plots for evaluating recommender systems.
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) ⭐ 3 | 🐛 0 | 📅 2023-01-15 - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
 ## Computations
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,947 | 🐛 1,427 | 🌐 Python | 📅 2026-11-12 - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [CuPy](https://github.com/cupy/cupy) ⭐ 12,409 | 🐛 702 | 🌐 Python | 📅 2026-11-05 - NumPy-like API accelerated with CUDA.
+* [Dask](https://github.com/dask/dask) ⭐ 13,949 | 🐛 1,433 | 🌐 Python | 📅 2026-11-13 - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [CuPy](https://github.com/cupy/cupy) ⭐ 12,408 | 🐛 704 | 🌐 Python | 📅 2026-11-13 - NumPy-like API accelerated with CUDA.
 * [NumExpr](https://github.com/pydata/numexpr) ⭐ 2,546 | 🐛 18 | 🌐 Python | 📅 2026-11-02 - A fast numerical expression evaluator for NumPy that comes with an integrated computing virtual machine to speed calculations up by avoiding memory allocation for intermediate results.
 * [adaptive](https://github.com/python-adaptive/adaptive) ⭐ 1,232 | 🐛 106 | 🌐 Python | 📅 2026-11-12 - Tools for adaptive and parallel samping of mathematical functions.
 * [bottleneck](https://github.com/kwgoodman/bottleneck) ⭐ 1,184 | 🐛 68 | 🌐 Python | 📅 2026-11-12 - Fast NumPy array functions written in C.
@@ -622,27 +622,27 @@
 
 ## Spatial Analysis
 
-* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,297 | 🐛 441 | 🌐 Python | 📅 2026-10-31 - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,297 | 🐛 442 | 🌐 Python | 📅 2026-10-31 - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [PySal](https://github.com/pysal/pysal) ⭐ 1,530 | 🐛 21 | 🌐 Python | 📅 2026-10-20 - Python Spatial Analysis Library.
 
 ## Quantum Computing
 
-* [qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,968 | 🐛 1,098 | 🌐 Python | 📅 2026-11-12 - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
-* [cirq](https://github.com/quantumlib/Cirq) ⭐ 5,099 | 🐛 123 | 🌐 Python | 📅 2026-11-11 - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
-* [PennyLane](https://github.com/XanaduAI/pennylane) ⭐ 3,524 | 🐛 503 | 🌐 Python | 📅 2026-11-13 - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+* [qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,970 | 🐛 1,108 | 🌐 Python | 📅 2026-11-13 - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+* [cirq](https://github.com/quantumlib/Cirq) ⭐ 5,100 | 🐛 125 | 🌐 Python | 📅 2026-11-11 - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+* [PennyLane](https://github.com/XanaduAI/pennylane) ⭐ 3,526 | 🐛 504 | 🌐 Python | 📅 2026-11-13 - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) ⚠️ Archived - A Python Toolkit for Quantum Machine Learning.
 
 ## Conversion
 
-* [ONNX](https://github.com/onnx/onnx) ⭐ 21,675 | 🐛 336 | 🌐 Python | 📅 2026-11-12 - Open Neural Network Exchange.
-* [MMdnn](https://github.com/Microsoft/MMdnn) ⭐ 5,801 | 🐛 336 | 🌐 Python | 📅 2025-08-07 -  A set of tools to help users inter-operate among different deep learning frameworks.
-* [sklearn-porter](https://github.com/nok/sklearn-porter) ⭐ 1,304 | 🐛 1 | 🌐 Python | 📅 2026-11-09 - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
+* [ONNX](https://github.com/onnx/onnx) ⭐ 21,685 | 🐛 347 | 🌐 Python | 📅 2026-11-13 - Open Neural Network Exchange.
+* [MMdnn](https://github.com/Microsoft/MMdnn) ⭐ 5,800 | 🐛 336 | 🌐 Python | 📅 2025-08-07 -  A set of tools to help users inter-operate among different deep learning frameworks.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) ⭐ 1,304 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
 * [treelite](https://github.com/dmlc/treelite) ⭐ 832 | 🐛 20 | 🌐 C++ | 📅 2026-11-10 - Universal model exchange and serialization format for decision tree forests.
 
 ## Contributing
 
 Contributions are welcome! :sunglasses: </br>
-Read the \<a href=[https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution](https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution) ⭐ 3,641 | 🐛 27 | 📅 2026-04-13 guideline</a>.
+Read the \<a href=[https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution](https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution) ⭐ 3,642 | 🐛 27 | 📅 2026-04-13 guideline</a>.
 
 ## License
 
@@ -650,4 +650,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
